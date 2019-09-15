@@ -16,12 +16,24 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from home import urls as home
+from funcionarios import urls as funcionarios
+from agenda import urls as agenda
+from calculadora import urls as calculadora
+from clientes import urls as clientes
+from fornecedor import urls as fornecedor
+from relatorio import urls as relatorio
 from django.conf import settings
 from django.conf.urls.static import static
 from django.contrib.auth import views as auth_views
 
 urlpatterns = [
     path('', include(home)),
+    path('funcionarios/', include(funcionarios)),
+    path('agenda/', include(agenda)),
+    path('calculadora/', include(calculadora)),
+    path('clientes/', include(clientes)),
+    path('fornecedor/', include(fornecedor)),
+    path('relatorio/', include(relatorio)),
     path('admin/', admin.site.urls),
     path('login/', auth_views.LoginView.as_view(), name='login'),
 
