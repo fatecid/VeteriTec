@@ -17,7 +17,7 @@
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
-        <img src="media/img/VeteriTecLogo.png" style="padding: 15px;">
+        <img src="{% static "VeteriTecLogo.png" %}" style="padding: 15px;">
 
 
       <div class="list-group list-group-flush">
@@ -30,7 +30,8 @@
 
           <div class="container">
               <br>
-    <img src="media/img/passarinhos.png" width="220" height="225"  />
+    <img src= "{% static "passarinhos.png" %}" width="220" height="225"  />
+
     </div>
 
       </div>
@@ -76,7 +77,8 @@
         {% endblock %}
           </div>
 
-          <img src="media/img/fundoWhats.png" alt="VeteriTec" width="100%" max-height>
+          <img src= "{% static "fundoWhats.png" %}" alt="VeteriTec" width="100%" max-height>
+
       </div>
     </div>
     <!-- /#page-content-wrapper -->
