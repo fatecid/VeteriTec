@@ -17,16 +17,16 @@
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
-        <img src="media/img/VeteriTecLogo.png" alt="VeteriTec" style="padding: 15px;">
+        <img src="media/img/VeteriTecLogo.png" style="padding: 15px;">
 
 
       <div class="list-group list-group-flush">
-        <a href="agenda/" class="list-group-item list-group-item-action bg-light" href="{% url 'agenda' %}">Agenda</a>
-        <a href="calculadora/" class="list-group-item list-group-item-action bg-light" href="{% url 'calculadora' %}" >Calculadora</a>
-        <a href="clientes/" class="list-group-item list-group-item-action bg-light" href="{% url 'clientes' %}" >Clientes</a>
-        <a href="funcionarios/" class="list-group-item list-group-item-action bg-light" href="{% url 'funcionarios' %}">Funcionários</a>
-        <a href="fornecedor/" class="list-group-item list-group-item-action bg-light" href="{% url 'fornecedor' %}">Fornecedores</a>
-        <a href="relatorio/" class="list-group-item list-group-item-action bg-light" href="{% url 'relatorio' %}">Relatório</a>
+        <a href="/agenda/" class="list-group-item list-group-item-action bg-light" href="{% url 'agenda' %}">Agenda</a>
+        <a href="/calculadora/" class="list-group-item list-group-item-action bg-light" href="{% url 'calculadora' %}" >Calculadora</a>
+        <a href="/clientes/" class="list-group-item list-group-item-action bg-light" href="{% url 'clientes' %}" >Clientes</a>
+        <a href="/funcionarios/" class="list-group-item list-group-item-action bg-light" href="{% url 'funcionarios' %}">Funcionários</a>
+        <a href="/fornecedor/" class="list-group-item list-group-item-action bg-light" href="{% url 'fornecedor' %}">Fornecedores</a>
+        <a href="/relatorio/" class="list-group-item list-group-item-action bg-light" href="{% url 'relatorio' %}">Relatório</a>
 
           <div class="container">
               <br>
@@ -45,7 +45,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
             <li class="nav-item active">
-              <a class="nav-link" href="">Início <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="/">Início <span class="sr-only">(current)</span></a>
             </li>
                 {% if user.is_authenticated %}
             <li class="nav-item">

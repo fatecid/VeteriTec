@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765441b7-a389-452d-a0ef-c352ba9250bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/agenda/templates/agenda.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/agenda/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/calculadora/templates/calculadora.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/calculadora/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/clientes/templates/clientes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/clientes/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/fornecedor/templates/fornecedor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/fornecedor/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/relatorio/templates/relatorio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/relatorio/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeteriTec/statics/calc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VeteriTec_Initial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VeteriTec_Initial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/VeteriTec/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/VeteriTec/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/VeteriTec/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/VeteriTec/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VeteriTec/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/funcionarios/templates/funcionario.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/funcionarios/templates/funcionario.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/funcionarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/funcionarios/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/funcionarios/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/funcionarios/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/home/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/home/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VeteriTec/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
