@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="765441b7-a389-452d-a0ef-c352ba9250bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/LogoNovo.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/LogoNovo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/VeteriTecLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/VeteriTecLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/flamingo.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/flamingo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/fundoWhats.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/fundoWhats.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/passarinhos.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/passarinhos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/media/img/veteriteccruzlogo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/media/veteriteccruzlogo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeteriTec/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VeteriTec/clientes/templates/clientes.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeteriTec/clientes/templates/clientes.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +36,7 @@
       <recent name="C:\Users\mauri\Desktop\VeteriTec_Initial\VeteriTec" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mauri\Desktop\VeteriTec_Initial\VeteriTec\statics" />
       <recent name="C:\Users\mauri\Desktop\VeteriTec_Initial\VeteriTec\templates" />
       <recent name="C:\Users\mauri\Desktop\VeteriTec_Initial\VeteriTec\home\templates" />
       <recent name="C:\Users\mauri\Desktop\VeteriTec_Initial\VeteriTec\midia" />
